@@ -171,9 +171,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
@@ -187,10 +184,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Delta Lake Community
 - Databricks Medallion Architecture Best Practices
 
-## 📞 Support
 
-For issues and questions, please open an issue in this repository.
-
----
 
 **Note:** Replace placeholder values (server names, credentials) with your actual configuration details before deployment.
